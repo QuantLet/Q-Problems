@@ -1,2 +1,2 @@
 # Q-Problems
-Quantnet: quantlets with problems
+Quantlets with problems
