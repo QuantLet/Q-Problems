@@ -1,0 +1,19 @@
+Name of QuantLet: SFEresDens
+
+Published in: Statistics of Financial Markets
+
+Description: 'Plots the Kernel density estimator of the residuals and of the normal density for the log-returns of DEM/USD and GBP/USD from 01.12.1979 to 01.04.1994.'
+
+Keywords: copula, normal, plot, graphical representation, density, Quartic, garch, autoregressive, estimation, financial, kernel, returns, log-returns
+
+See also: SFEclaytonMC, SFEstaticCop, SFEtCop, SFEVaRcopulaSIM2ptv, SFEArchCopDensity, BCS_ClaytonMC, SFEfrechet, SFEgaussCop, SFEplotCop, SFEtMC, SFScontourgumbel, SFEgaussCop
+
+Author: Ostap Okhrin
+
+Submitted: Wed, September 14 2011 by Awdesch Melzer
+
+Datafiles: fx_dem_gbp_usd.dat
+
+Example: 
+- 'Kernel density estimator of the residuals and of the normal density from DEM/USD.'
+- 'Kernel density estimator of the residuals and of the normal density from GBP/USD.'
