@@ -6,7 +6,7 @@ Description: 'According to the VaR methodology the profit and loss (P&L) is plot
 
 Keywords: copula, plot, graphical representation, distribution, estimation, gumbel, clayton, normal, garch, autoregressive, financial, Loss-Profit function
 
-See also: SFEclaytonMC, SFEstaticCop, SFEplotCop, SFEtCop, SFEArchCopDensity, BCS_ClaytonMC, SFEfrechet, SFEgaussCop, SFEresDens, SFEtMC, SFScontourgumbel, SFEVaRHAC
+See also: SFEclaytonMC, SFEstaticCop, SFEplotCop, SFEtCop, SFEArchCopDensity, BCS_ClaytonMC, SFEfrechet, SFEgaussCop, SFEresDens, SFEtMC, SFScontourgumbel, SFEgaussCop, SFEVaRHAC
 
 Author: Ostap Okhrin
 

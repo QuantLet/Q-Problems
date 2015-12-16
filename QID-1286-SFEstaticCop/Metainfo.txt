@@ -6,7 +6,7 @@ Description: 'The contour diagrams of the Gumbel, Clayton and Normal copula are 
 
 Keywords: copula, distribution, normal, normal distribution, plot, graphical representation, density, clayton, gumbel
 
-See also: SFEclaytonMC, SFEplotCop, SFEtCop, SFEVaRcopulaSIM2ptv, SFEArchCopDensity, BCS_ClaytonMC, SFEfrechet, SFEgaussCop, SFEresDens, SFEtMC, SFScontourgumbel
+See also: SFEclaytonMC, SFEplotCop, SFEtCop, SFEVaRcopulaSIM2ptv, SFEArchCopDensity, BCS_ClaytonMC, SFEfrechet, SFEgaussCop, SFEresDens, SFEtMC, SFScontourgumbel, SFEgaussCop
 
 Author: Ostap Okhrin
 
