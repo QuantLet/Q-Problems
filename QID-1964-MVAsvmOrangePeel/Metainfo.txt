@@ -1,0 +1,16 @@
+Name of QuantLet: MVAsvmOrangePeel
+
+Published in: Applied Multivariate Statistical Analysis
+
+Description: Plots the area of two different groups via svm classification using anipotropic Gaussian kernel.
+
+Keywords: SVM, anitropic, gaussian, kernel
+
+See also: MVAppsib, ppsib, ppsibexample
+
+Author: Dedy D. Prastyo
+
+Submitted: Mon, March 17 2014 by Franziska Schulz
+
+Example: Change value of r in anisotropic gaussian kernel for different parameter values.
+
