@@ -6,7 +6,7 @@ Description: 'Plots the Silverman''s approximation to the effective spline kerne
 
 Keywords: spline, kernel, approximation, estimation, plot, graphical representation, data visualization
 
-See also: SPMspline, SPMsplineregression
+See also: SPMspline, SPMsplineregression, SPMkernel, SPMkernelcontours, SPMkernelregression
 
 Author: Awdesch Melzer
 
