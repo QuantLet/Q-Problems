@@ -1,4 +1,4 @@
-Name of QuantLet: SFEPer
+Name of QuantLet: SFEPer_new
 
 Published in: Statistics of Financial Markets
 

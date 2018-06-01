@@ -12,8 +12,7 @@ Author: Lasse Groth
 
 Submitted: Fri, September 30 2011 by Awdesch Melzer
 
-Output: - Plots of the convergence rate of maxima for standard normal cdf and 1.1-stable cdf.
+Output: 
+- Plots of the convergence rate of maxima for standard normal cdf and 1.1-stable cdf.
 
-Example: Convergence rate of maxima for standard normal cdf
-
-Convergence rate of maximum for n random variables with a 1:1-stable cdf.
+Example: 'Convergence rate of maxima for standard normal cdf. Convergence rate of maximum for n random variables with a 1:1-stable cdf.'

@@ -4,12 +4,12 @@ Published in: Statistics of Financial Markets
 
 Description: 'Applies first differencing and 12-month centered moving average filter to SOI data and plots the results in time and frequency representation.'
 
-Keywords:
+Keywords: ''
 
-Author: Dedy D. Prastyo, Elisabeth Bommes
+Author: 'Dedy D. Prastyo, Elisabeth Bommes'
 
-Submitted: Thu, June 05 2014 by Sergey Nasekin
+Submitted: 'Thu, June 05 2014 by Sergey Nasekin'
 
 Datafiles: 
 
-Output: Spectrum and time series line plots of filtered SOI data.
+Output: 'Spectrum and time series line plots of filtered SOI data.'
