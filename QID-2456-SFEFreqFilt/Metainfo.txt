@@ -1,4 +1,4 @@
-Name of QuantLet: SFEFreqFilt
+Name of QuantLet: SFEFreqFilt_new
 
 Published in: Statistics of Financial Markets
 

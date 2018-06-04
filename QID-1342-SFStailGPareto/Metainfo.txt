@@ -14,14 +14,10 @@ Submitted: Sat, October 01 2011 by Awdesch Melzer
 
 Datafiles: Bay9906_close_2kPoints.txt, Bmw9906_close_2kPoints.txt, Sie9906_close_2kPoints.txt
 
-Input: - Please change working directory.
+Input: 
+- Please change working directory.
 
-Output: - QQ-plot and PP-plot with Generalized Pareto Distribution.
+Output: 
+- QQ-plot and PP-plot with Generalized Pareto Distribution.
 
-Example: PP plot of 100 tail values of daily log-returns of portfolio (Bayer, 
-
-BMW, Siemens) from 1992-01-01 to 2006-09-01 against Generalized Pareto Distribution with parameter = 0.0768 globally estimated with POT method.
-
-QQ plot of 100 tail values of daily log-returns of portfolio (Bayer, 
-
-BMW, Siemens) from 1992-01-01 to 2006-09-01 against Generalized Pareto Distribution with a global parameter = 0.0768 estimated with POT method.
+Example: PP plot of 100 tail values of daily log-returns of portfolio (Bayer, BMW, Siemens) from 1992-01-01 to 2006-09-01 against Generalized Pareto Distribution with parameter = 0.0768 globally estimated with POT method. QQ plot of 100 tail values of daily log-returns of portfolio (Bayer, BMW, Siemens) from 1992-01-01 to 2006-09-01 against Generalized Pareto Distribution with a global parameter = 0.0768 estimated with POT method.

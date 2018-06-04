@@ -1,4 +1,4 @@
-Name of QuantLet: SFSmsr1
+Name of QuantLet: SFSmsr1_new
 
 Published in: 'Statistics of Financial Markets : Exercises and Solutions'
 
