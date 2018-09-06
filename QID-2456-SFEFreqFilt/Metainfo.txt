@@ -4,7 +4,7 @@ Published in: Statistics of Financial Markets
 
 Description: 'Applies first differencing and 12-month centered moving average filter to SOI data and plots the results in time and frequency representation.'
 
-Keywords: ''
+Keywords: 'Spectrum, Differencing, Financial Markets, moving average filter'
 
 Author: 'Dedy D. Prastyo, Elisabeth Bommes'
 
