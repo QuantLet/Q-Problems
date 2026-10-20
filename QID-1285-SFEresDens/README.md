@@ -22,7 +22,7 @@ Submitted: Wed, September 14 2011 by Awdesch Melzer
 Datafiles: fx_dem_gbp_usd.dat
 
 Example: 
-- 'Kernel density estimator of the residuals and of the normal density from DEM/USD.
-- 'Kernel density estimator of the residuals and of the normal density from GBP/USD.
+- Kernel density estimator of the residuals and of the normal density from DEM/USD.
+- Kernel density estimator of the residuals and of the normal density from GBP/USD.
 
 ```
