@@ -25,8 +25,8 @@ Input:
 - Please change working directory.
 
 Output: 
-- 'QQ-plot and PP-plot with Generalized Extreme Value Distribution.
+- QQ-plot and PP-plot with Generalized Extreme Value Distribution.
 
-Example: PP plot of 100 tail values of daily log-returns of portfolio (Bayer, BMW, Siemens) from 1992-01-01 to 2006-09-01 against Generalized Extreme Value Distribution with a global parameter = 0.0498 estimated with block maxima method.
+Example: PP plot of 100 tail values of daily log-returns of portfolio (Bayer, BMW, Siemens) from 1992-01-01 to 2006-09-01 against Generalized Extreme Value Distribution with a global parameter = 0.0498 estimated with block maxima method. QQ plot of 100 tail values of daily log-returns of portfolio (Bayer, BMW, Siemens) from 1992-01-01 to 2006-09-01 against Generalized Extreme Value Distribution with a global parameter = 0.0498 estimated with block maxima method.
 
 ```
